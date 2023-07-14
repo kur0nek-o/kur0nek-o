@@ -1,5 +1,15 @@
-### Hi there 👋
+# Hello 👋
 
+### About Me
+I am a Full Stack Web Developer with expertise in PHP, HTML, CSS, and JavaScript. I also have experience working with databases like MySQL and PostgreSQL. Currently, I am focused on learning front-end frameworks like ReactJS and Vue.
+
+### Skills
+- Programming Languages: PHP, JavaScript
+- Frameworks: Laravel, CodeIgniter 3, ExpressJS
+- Markup Languages: HTML, CSS
+- Databases: MySQL, PostgreSQL
+
+Thank you for visiting my GitHub profile!
 <!--
 **kur0nek-o/kur0nek-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
